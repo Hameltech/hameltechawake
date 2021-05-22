@@ -27,11 +27,6 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Articles',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
-    },
-    {
       name: 'Contact',
       link: '/contact'
     }
