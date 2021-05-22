@@ -31,19 +31,13 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Media',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
       name: 'Articles',
       link: 'https://awake-premium-lp.netlify.com/',
       target: '_blank'
     },
     {
-      name: 'Musings',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
+      name: 'Contact',
+      link: '/contact'
     }
   ],
   hero: {
