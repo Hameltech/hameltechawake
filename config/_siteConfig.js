@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'hamel [ /hem-uhl/ ]',
+  siteName: '[ /hem-uhl/ ]',
   tagline: 'noun. a collection of thoughts, media, and projects by Hamel Khakhria',
   featureImage: '/uploads/hamel-hero-resized.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
