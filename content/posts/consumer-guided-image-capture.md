@@ -1,5 +1,5 @@
 ---
-title: Consumer Guided Image Capture
+title: Guided Image Capture
 subtitle: "Helping consumers "
 category:
   - Product Management
