@@ -9,9 +9,9 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Hamel',
-  tagline: 'lets test this out',
-  featureImage: '/uploads/home-hero.jpg',
+  siteName: 'hamel [ /hem-uhl/ ]',
+  tagline: 'noun. a collection of thoughts, media, and projects by Hamel Khakhria',
+  featureImage: '/uploads/book-outside.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
