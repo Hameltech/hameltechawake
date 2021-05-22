@@ -1,10 +1,10 @@
 ---
-title: Built For Speed
-subtitle: Awake is Built to Be Blazing Fast
+title: Consumer Guided Image Capture
+subtitle: "Helping consumers "
 category:
-  - About Awake
-author: Daniel Kelly
-date: 2019-08-02T04:27:56.800Z
+  - Product Management
+author: Hamel Khakhria
+date: 2021-05-22T19:25:20.665Z
 featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
 ---
 Awake is fast for a couple different reasons. It both capitalizes on the platform it's built for (JAM Stack) and the framework it's built on (Nuxt.js) as well as includes some intentional optimizations to improve the end user experience when it comes to speed. 
@@ -37,8 +37,8 @@ Awake comes with Font Awesome 5 support out of the box, so you have a wealth of 
 
 In order to speed up both compile time and page load time, basically everything but the header, footer, hero, and main content of the posts are lazy loaded. All grids are lazy loaded with infinite scroll and all images (feature images and those in posts) are also lazy loaded. Comments can be lazy loaded or loaded on click of "Show Comments" button.
 
-## Pretty Stinkin' Fast, I'd Say
+## This is a product I manage
 
-I've taken a number of steps to try and make Awake as fast and snappy as possible for the end user and I think you'll find it's been handled fairly well. Last I ran one of the posts through Page Speed Insights I got a 99 score for desktop and 89 for mobile. [Give it a try for yourself!](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fawake-template.netlify.com%2Fpost-markup-and-formatting%2F&tab=desktop)
+Yeah yeah yeah [Click here to read the press release](https://www.solera.com/qapter-news/solera-releases-guided-image-capture-engineered-to-revolutionize-ai-based-repair/)
 
 ![Page speed insights score 99!!](/uploads/page-speed-insights.jpg)
