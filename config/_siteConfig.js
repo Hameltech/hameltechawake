@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'hamel [ /hem-uhl/ ]',
   tagline: 'noun. a collection of thoughts, media, and projects by Hamel Khakhria',
-  featureImage: '/uploads/hamel-hero.jpg',
+  featureImage: '/uploads/hamel-hero-resized.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
