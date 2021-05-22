@@ -5,7 +5,7 @@ category:
   - Product Management
 author: Hamel Khakhria
 date: 2021-05-22T22:10:39.035Z
-featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
+featureImage: https://www.audatex.ca/wp-content/uploads/2021/02/qap-press-release.jpg
 ---
 
 ## This is a product I manage
