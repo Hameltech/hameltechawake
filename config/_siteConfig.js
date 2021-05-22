@@ -23,20 +23,25 @@ export default {
       link: '/about'
     },
     {
-      name: 'Contact',
+      name: 'Product Management',
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'Artificial Intelligence',
       link: '/categories'
     },
     {
-      name: 'Github Repo',
+      name: 'Media',
       link: 'https://github.com/danielkellyio/awake-template',
       target: '_blank'
     },
     {
-      name: 'Awake+ Premium',
+      name: 'Articles',
+      link: 'https://awake-premium-lp.netlify.com/',
+      target: '_blank'
+    },
+    {
+      name: 'Musings',
       link: 'https://awake-premium-lp.netlify.com/',
       target: '_blank'
     }
